@@ -7,6 +7,8 @@ authors = ["davetpj <dhkim92@icloud.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 numpy = "^1.23.2"
+matplotlib = "^3.6.0"
+tqdm = "^4.64.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
